@@ -1,0 +1,21 @@
+{
+  "checked_at": "2026-11-17T01:39:22.368544+08:00",
+  "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg",
+  "ok": false,
+  "detections": [
+    {
+      "bbox": [
+        39,
+        390,
+        192,
+        508
+      ],
+      "plate": "",
+      "detector_confidence": 0.42365166544914246,
+      "ocr_confidence": 0.0,
+      "raw_text": "E",
+      "method": "yolo_ocr",
+      "reading_support": 1
+    }
+  ]
+}

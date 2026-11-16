@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "source": "C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4",
+  "version": "PlateWatch 2.6.0 • Автомашины дугаар танигч",
+  "stride": 10,
+  "mode": "balanced",
+  "first_plate": "7034 УБУ",
+  "first_plate_elapsed_seconds": 12.17,
+  "elapsed_seconds": 29.3,
+  "processed_frames": 37,
+  "records": [
+    {
+      "plate": "7034УБУ",
+      "video_seconds": "1.0",
+      "ocr_confidence": "0.9998",
+      "crop_path": "evidence/2026-11-16/181554_483122_2cd135_7034УБУ_plate.jpg"
+    }
+  ],
+  "target_records": [
+    "7034УБУ"
+  ]
+}

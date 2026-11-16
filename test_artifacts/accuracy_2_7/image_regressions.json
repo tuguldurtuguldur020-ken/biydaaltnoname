@@ -1,0 +1,29 @@
+[
+  {
+    "name": "synthetic",
+    "expected": "1234УБА",
+    "plates": [
+      "1234УБА"
+    ],
+    "ok": true,
+    "seconds": 1.45
+  },
+  {
+    "name": "toyota",
+    "expected": "9638УЕН",
+    "plates": [
+      "9638УЕН"
+    ],
+    "ok": true,
+    "seconds": 0.82
+  },
+  {
+    "name": "user",
+    "expected": "3892УНУ",
+    "plates": [
+      "3892УНУ"
+    ],
+    "ok": true,
+    "seconds": 0.63
+  }
+]

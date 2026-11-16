@@ -7,7 +7,7 @@ import sys
 ROOT = Path(__file__).resolve().parent
 ENV = ROOT / ".venv"
 ENV_PYTHON = ENV / "Scripts" / "python.exe"
-MODULES = ["cv2", "numpy", "PIL", "ultralytics", "easyocr", "torch", "torchvision"]
+MODULES = ["cv2", "numpy", "PIL", "ultralytics", "easyocr", "torch", "torchvision", "onnxruntime", "yaml"]
 
 
 def main():

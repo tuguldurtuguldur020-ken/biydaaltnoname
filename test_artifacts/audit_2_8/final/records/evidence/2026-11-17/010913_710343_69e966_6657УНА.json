@@ -1,0 +1,33 @@
+{
+  "id": "010913_710343_69e966",
+  "detected_at": "2026-11-17T01:09:13.710+08:00",
+  "plate": "6657УНА",
+  "source": "C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4",
+  "source_kind": "video",
+  "video_seconds": 2.933,
+  "detector_confidence": 0.8122,
+  "ocr_confidence": 0.8204,
+  "rule_code": "outside_hours",
+  "rule_label": "Өнөөдөр хязгаарлах өдөр • цагаас гадна",
+  "image_path": "evidence/2026-11-17/010913_710343_69e966_6657УНА.jpg",
+  "crop_path": "evidence/2026-11-17/010913_710343_69e966_6657УНА_plate.jpg",
+  "metadata_path": "evidence/2026-11-17/010913_710343_69e966_6657УНА.json",
+  "raw_ocr_text": "6657YHA",
+  "bbox": [
+    142,
+    475,
+    196,
+    495
+  ],
+  "method": "yolo_ocr",
+  "reading_support": 1,
+  "rule": {
+    "code": "outside_hours",
+    "label": "Өнөөдөр хязгаарлах өдөр • цагаас гадна",
+    "restricted_today": true,
+    "restricted_now": false,
+    "detail": "Мягмар · сүүлийн цифр 7 · 08:00–20:00 · тохируулсан хуваарь"
+  },
+  "rule_basis": "user_configured_schedule",
+  "time_basis": "import_processing_time"
+}

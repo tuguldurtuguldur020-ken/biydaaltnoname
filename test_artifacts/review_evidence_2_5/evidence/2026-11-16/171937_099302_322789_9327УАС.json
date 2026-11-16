@@ -1,0 +1,32 @@
+{
+  "id": "171937_099302_322789",
+  "detected_at": "2026-11-16T17:19:37.099+08:00",
+  "plate": "9327УАС",
+  "source": "C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\Зогсоосон_кадр_туршилт.mp4",
+  "source_kind": "video",
+  "video_seconds": 0.133,
+  "detector_confidence": 0.6853,
+  "ocr_confidence": 0.551,
+  "rule_code": "allowed",
+  "rule_label": "Хуваариар зорчих боломжтой",
+  "image_path": "evidence/2026-11-16/171937_099302_322789_9327УАС.jpg",
+  "crop_path": "evidence/2026-11-16/171937_099302_322789_9327УАС_plate.jpg",
+  "metadata_path": "evidence/2026-11-16/171937_099302_322789_9327УАС.json",
+  "raw_ocr_text": "9327YAC",
+  "bbox": [
+    247,
+    382,
+    360,
+    403
+  ],
+  "method": "yolo_ocr",
+  "rule": {
+    "code": "allowed",
+    "label": "Хуваариар зорчих боломжтой",
+    "restricted_today": false,
+    "restricted_now": false,
+    "detail": "Даваа · сүүлийн цифр 7 · 08:00–20:00 · тохируулсан хуваарь"
+  },
+  "rule_basis": "user_configured_schedule",
+  "time_basis": "import_processing_time"
+}

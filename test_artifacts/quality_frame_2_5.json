@@ -1,0 +1,17 @@
+{
+  "seconds": 5.24,
+  "detections": [
+    {
+      "bbox": [
+        257,
+        374,
+        314,
+        393
+      ],
+      "plate": "",
+      "detector_confidence": 0.7718470096588135,
+      "ocr_confidence": 0.0892292628184242,
+      "raw_text": "1932YЦС"
+    }
+  ]
+}

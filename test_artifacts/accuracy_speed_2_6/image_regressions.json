@@ -1,0 +1,38 @@
+[
+  {
+    "name": "synthetic",
+    "expected": "1234УБА",
+    "plates": [
+      "1234УБА"
+    ],
+    "seconds": 0.59,
+    "ok": true
+  },
+  {
+    "name": "reported_frame",
+    "expected": "7034УБУ",
+    "plates": [
+      "7034УБУ"
+    ],
+    "seconds": 2.59,
+    "ok": true
+  },
+  {
+    "name": "toyota",
+    "expected": "9638УЕН",
+    "plates": [
+      "9638УЕН"
+    ],
+    "seconds": 0.44,
+    "ok": true
+  },
+  {
+    "name": "user_photo",
+    "expected": "3892УНУ",
+    "plates": [
+      "3892УНУ"
+    ],
+    "seconds": 0.21,
+    "ok": true
+  }
+]

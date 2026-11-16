@@ -1,0 +1,68 @@
+[
+  {
+    "crop": "crop_3.0_0.png",
+    "text": "5559 УEИ",
+    "score": 0.575,
+    "seconds": 0.029
+  },
+  {
+    "crop": "crop_3.0_1.png",
+    "text": "66 57YHA",
+    "score": 0.742,
+    "seconds": 0.024
+  },
+  {
+    "crop": "crop_3.533_0.png",
+    "text": "559 У6И",
+    "score": 0.65,
+    "seconds": 0.024
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "text": "6657-YHA",
+    "score": 0.822,
+    "seconds": 0.03
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "text": "559 У6И",
+    "score": 0.683,
+    "seconds": 0.025
+  },
+  {
+    "crop": "crop_4.0_1.png",
+    "text": "6657-YHA",
+    "score": 0.917,
+    "seconds": 0.026
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "text": "6657-YHA",
+    "score": 0.899,
+    "seconds": 0.023
+  },
+  {
+    "crop": "crop_4.7_0.png",
+    "text": "400",
+    "score": 0.939,
+    "seconds": 0.024
+  },
+  {
+    "crop": "crop_4.7_1.png",
+    "text": "",
+    "score": 0,
+    "seconds": 0.037
+  },
+  {
+    "crop": "crop_5.0_0.png",
+    "text": "400",
+    "score": 0.861,
+    "seconds": 0.034
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "text": "400",
+    "score": 0.798,
+    "seconds": 0.024
+  }
+]

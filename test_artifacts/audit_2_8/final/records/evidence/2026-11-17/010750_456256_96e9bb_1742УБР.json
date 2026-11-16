@@ -1,0 +1,33 @@
+{
+  "id": "010750_456256_96e9bb",
+  "detected_at": "2026-11-17T01:07:50.456+08:00",
+  "plate": "1742УБР",
+  "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg",
+  "source_kind": "image",
+  "video_seconds": "",
+  "detector_confidence": 0.0,
+  "ocr_confidence": 1.0,
+  "rule_code": "outside_hours",
+  "rule_label": "Өнөөдөр хязгаарлах өдөр • цагаас гадна",
+  "image_path": "evidence/2026-11-17/010750_456256_96e9bb_1742УБР.jpg",
+  "crop_path": "evidence/2026-11-17/010750_456256_96e9bb_1742УБР_plate.jpg",
+  "metadata_path": "evidence/2026-11-17/010750_456256_96e9bb_1742УБР.json",
+  "raw_ocr_text": "1742УБР",
+  "bbox": [
+    83,
+    201,
+    555,
+    506
+  ],
+  "method": "geometry_ocr",
+  "reading_support": 1,
+  "rule": {
+    "code": "outside_hours",
+    "label": "Өнөөдөр хязгаарлах өдөр • цагаас гадна",
+    "restricted_today": true,
+    "restricted_now": false,
+    "detail": "Мягмар · сүүлийн цифр 2 · 08:00–20:00 · тохируулсан хуваарь"
+  },
+  "rule_basis": "user_configured_schedule",
+  "time_basis": "import_processing_time"
+}

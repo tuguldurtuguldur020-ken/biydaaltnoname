@@ -1,0 +1,35 @@
+{
+  "ok": true,
+  "version": "PlateWatch 2.4.0 • Автомашины дугаар танигч",
+  "video": "C:\\Users\\tugul\\Downloads\\AQOHhAnoXqHaSaCe-ANCT1j6TYt-UF3-rb5moSTHx0YzlCR8WfYX9zqsWmMqZFVuYAtuu3ZlUxvQNEOL_4toVUHcYCwgm71ZsZDGhqIHjQ.mp4",
+  "video_first_preview_seconds": 0.113,
+  "pause_ok": true,
+  "pause_checked": true,
+  "fullscreen_ok": true,
+  "fullscreen_escape_keeps_playing": true,
+  "video_processed_samples": 71,
+  "video_duration": 11.7,
+  "video_playback_seconds": 11.7,
+  "video_rendered_frames": 318,
+  "video_plate_records": 1,
+  "video_plates": [
+    "1088УЕН"
+  ],
+  "video_rotation": 270,
+  "video_ok": true,
+  "fixture_plates": [
+    "1234УБА"
+  ],
+  "fixture_processed_samples": 6,
+  "fixture_ok": true,
+  "camera_preview_frames": 6,
+  "camera_inference_frames": 3,
+  "camera_shape": [
+    480,
+    640,
+    3
+  ],
+  "camera_index": 0,
+  "camera_reopened_after_stop": true,
+  "camera_ok": true
+}

@@ -1,0 +1,51 @@
+{
+  "model_path": "",
+  "camera_index": 0,
+  "camera_backend": "auto",
+  "device": "cpu",
+  "detection_confidence": 0.35,
+  "ocr_confidence": 0.35,
+  "frame_stride": 7,
+  "cooldown_seconds": 20,
+  "confirmation_frames": 2,
+  "recognition_mode": "detailed",
+  "video_min_confidence": 0.65,
+  "playback_speed": 1.5,
+  "neighbor_frames": 2,
+  "adaptive_sampling": true,
+  "accent": "Цэнхэр",
+  "save_video": false,
+  "rules": {
+    "mode": "weekly",
+    "start": "08:00",
+    "end": "20:00",
+    "in_zone": true,
+    "even_on_even_date": true,
+    "weekdays": {
+      "0": [
+        1,
+        6
+      ],
+      "1": [
+        2,
+        7
+      ],
+      "2": [
+        3,
+        8
+      ],
+      "3": [
+        4,
+        9
+      ],
+      "4": [
+        0,
+        5
+      ],
+      "5": [],
+      "6": []
+    },
+    "holidays": [],
+    "exempt_plates": []
+  }
+}

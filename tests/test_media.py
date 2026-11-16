@@ -5,10 +5,42 @@ import unittest
 from unittest.mock import patch
 import numpy as np
 from PIL import Image
-from platewatch.media import open_camera, read_image
+from platewatch.media import open_camera, open_video, read_image
 
 
 class MediaTests(unittest.TestCase):
+    def test_photo_cannot_be_silently_opened_as_a_one_frame_video(self):
+        with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as temp:
+            path = Path(temp) / "video.jpg"
+            Image.new("RGB", (100, 60)).save(path)
+            with self.assertRaisesRegex(RuntimeError, "зургийн файл"):
+                open_video(path)
+
+    def test_video_retries_decoder_and_releases_failed_capture(self):
+        import cv2
+        class Capture:
+            released = False
+            def __init__(self, valid):
+                self.valid = valid
+            def isOpened(self):
+                return True
+            def read(self):
+                return (True, np.zeros((60, 100, 3), np.uint8)) if self.valid else (False, None)
+            def get(self, prop):
+                return 25 if prop == cv2.CAP_PROP_FPS else 50
+            def release(self):
+                self.released = True
+        with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as temp:
+            path = Path(temp) / "Монгол.mp4"
+            path.touch()
+            first, second = Capture(False), Capture(True)
+            with patch("cv2.VideoCapture", side_effect=[first, second]):
+                capture, frame, info = open_video(path)
+            self.assertTrue(first.released)
+            self.assertIs(capture, second)
+            self.assertEqual(info["duration"], 2)
+            capture.release()
+
     def test_unicode_tiff_and_exif_orientation(self):
         with tempfile.TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as temp:
             path = Path(temp) / "Монгол зураг.tiff"

@@ -7,5 +7,7 @@ build/
 dist/
 *.spec
 datasets/
+/archive/generated/
+/archive/temporary_tests/
 *.pt
 !models/README.md

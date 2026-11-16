@@ -1,0 +1,7 @@
+{
+  "frame": "test_artifacts/accuracy_source_1.17.jpg",
+  "source_seconds": 1.17,
+  "before": {"version": "2.5.0", "method": "detect_video_frame", "plate": "1703УБУ", "ocr_confidence": 0.699, "elapsed_seconds": 7.98},
+  "after": {"version": "2.6.0", "method": "detect_video_frame", "mode": "balanced", "plate": "7034УБУ", "ocr_confidence": 1.0, "elapsed_seconds": 0.98},
+  "note": "Observed single-frame timings on this PC; total video check and model startup are measured separately in report.json. OCR confidence is not a measured accuracy probability."
+}

@@ -1,0 +1,25 @@
+2026-11-16 22:31:48,919 INFO Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+2026-11-16 22:31:49,034 INFO Source ready: {'kind': 'video', 'source': 'C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4', 'fps': 30.0, 'total': 367, 'duration': 12.233333333333333, 'backend': 'FFMPEG', 'shape': [960, 540, 3]}
+2026-11-16 22:31:49,064 INFO GUI preview displayed: video (960, 540, 3)
+2026-11-16 22:32:01,707 INFO GUI AI ready: video
+2026-11-16 22:32:58,016 INFO Source finished: video; saved=2
+2026-11-16 22:35:00,607 INFO Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+2026-11-16 22:35:00,711 INFO Source ready: {'kind': 'video', 'source': 'C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4', 'fps': 30.0, 'total': 367, 'duration': 12.233333333333333, 'backend': 'FFMPEG', 'shape': [960, 540, 3]}
+2026-11-16 22:35:00,744 INFO GUI preview displayed: video (960, 540, 3)
+2026-11-16 22:35:09,234 INFO GUI AI ready: video
+2026-11-16 22:37:24,269 INFO Source finished: video; saved=3
+2026-11-16 22:38:20,331 INFO Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+2026-11-16 22:38:20,446 INFO Source ready: {'kind': 'video', 'source': 'C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4', 'fps': 30.0, 'total': 367, 'duration': 12.233333333333333, 'backend': 'FFMPEG', 'shape': [960, 540, 3]}
+2026-11-16 22:38:20,473 INFO GUI preview displayed: video (960, 540, 3)
+2026-11-16 22:38:32,720 INFO GUI AI ready: video
+2026-11-16 22:39:17,594 INFO Source finished: video; saved=3
+2026-11-16 22:39:37,875 INFO Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+2026-11-16 22:39:37,980 INFO Source ready: {'kind': 'video', 'source': 'C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4', 'fps': 30.0, 'total': 367, 'duration': 12.233333333333333, 'backend': 'FFMPEG', 'shape': [960, 540, 3]}
+2026-11-16 22:39:38,019 INFO GUI preview displayed: video (960, 540, 3)
+2026-11-16 22:39:47,482 INFO GUI AI ready: video
+2026-11-16 22:40:22,365 INFO Source finished: video; saved=2
+2026-11-16 22:42:32,318 INFO Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+2026-11-16 22:42:32,413 INFO Source ready: {'kind': 'video', 'source': 'C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4', 'fps': 30.0, 'total': 367, 'duration': 12.233333333333333, 'backend': 'FFMPEG', 'shape': [960, 540, 3]}
+2026-11-16 22:42:32,438 INFO GUI preview displayed: video (960, 540, 3)
+2026-11-16 22:42:43,620 INFO GUI AI ready: video
+2026-11-16 22:43:20,578 INFO Source finished: video; saved=3

@@ -6,7 +6,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from platewatch.plates import TemporalGate, normalize_plate, select_ocr_candidate
+from platewatch.plates import Detection, PlateTracker, TemporalGate, normalize_plate, select_ocr_candidate
 from platewatch.rules import evaluate, rule_plate, restriction_days
 from platewatch.settings import DEFAULTS, UB_TIME, load_settings, save_settings
 from platewatch.storage import FIELDS, RecordStore
@@ -17,10 +17,40 @@ def box(x, y=0):
 
 
 class PlateTests(unittest.TestCase):
+    def test_confirmation_window_can_cover_a_user_selected_long_sample_gap(self):
+        tracker = PlateTracker()
+        detection = Detection((10, 10, 90, 35), "1742УБР", .9, .9)
+        self.assertFalse(tracker.confirm([detection], 0, window=6)[0].plate)
+        self.assertEqual(tracker.confirm([detection], 4, window=6)[0].plate, "1742УБР")
+
+    def test_fast_approaching_car_remains_the_same_track_across_video_samples(self):
+        tracker = PlateTracker()
+        observations = [(0, (171, 462, 233, 481), "7034УБУ", .666),
+                        (.333, (220, 482, 290, 503), "7034ҮБУ", .627),
+                        (.667, (297, 515, 385, 540), "7034УБУ", .999)]
+        accepted = []
+        for clock, bbox, plate, score in observations:
+            accepted.extend(d.plate for d in tracker.confirm([Detection(bbox, plate, .9, score)], clock) if d.plate)
+        self.assertEqual(accepted, ["7034УБУ"])
+
+    def test_tracking_separates_cars_and_never_counts_a_frame_twice(self):
+        tracker = PlateTracker()
+        first = Detection((10, 10, 90, 30), "7034УБУ", .9, .95)
+        second = Detection((200, 10, 280, 30), "7034УБУ", .9, .95)
+        self.assertFalse(tracker.confirm([first, second], 0)[0].plate)
+        self.assertFalse(tracker.confirm([first], 0)[0].plate)
+        confirmed = tracker.confirm([first], .5)
+        self.assertEqual(confirmed[0].plate, "7034УБУ")
+        # A newly arriving car with the same text has its own evidence.
+        third = Detection((400, 10, 480, 30), "7034УБУ", .9, .95)
+        self.assertFalse(tracker.confirm([third], 1)[0].plate)
+        self.assertFalse(tracker.confirm([first], 10)[0].plate)
+
     def test_normalization_preserves_cyrillic_and_leading_zero(self):
         self.assertEqual(normalize_plate("0124 УБӨ"), "0124УБӨ")
         self.assertEqual(normalize_plate("1234 YBA"), "1234УВА")
         self.assertEqual(normalize_plate("1О34 УБА"), "1034УБА")
+        self.assertEqual(normalize_plate("7319 ΔΑP"), "7319ДАР")
         for invalid in ["123", "12345УБА", "ДУГААР", "ABCDУБА", "1234???", "1234XYZ"]:
             self.assertEqual(normalize_plate(invalid), "")
 

@@ -1,0 +1,20 @@
+{
+  "ok": true,
+  "version": "PlateWatch 2.7.0 • Автомашины дугаар танигч",
+  "mode": "detailed",
+  "video_elapsed_seconds": 143.91,
+  "processed_frames": 53,
+  "video_plates": [
+    "7034УБУ",
+    "6657УНА",
+    "4000УЕО"
+  ],
+  "expected_plates": [
+    "4000УЕО",
+    "6657УНА",
+    "7034УБУ"
+  ],
+  "manual_plate": "6657 УНА",
+  "manual_seconds": 3.5666666666666664,
+  "manual_status": "1 дугаар баталгаажлаа • 1 дугаар бүрэн тодроогүй."
+}

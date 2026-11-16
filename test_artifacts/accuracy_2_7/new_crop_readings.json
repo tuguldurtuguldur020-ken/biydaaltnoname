@@ -1,0 +1,222 @@
+[
+  {
+    "crop": "crop_3.0_0.png",
+    "detailed": false,
+    "result": [
+      "5659УЕМ",
+      0.539110079407692,
+      "5659 YEM"
+    ],
+    "elapsed": 0.08
+  },
+  {
+    "crop": "crop_3.0_0.png",
+    "detailed": true,
+    "result": [
+      "",
+      0.539110079407692,
+      "5659 YEM"
+    ],
+    "elapsed": 0.06
+  },
+  {
+    "crop": "crop_3.0_1.png",
+    "detailed": false,
+    "result": [
+      "6657УНА",
+      0.5356300600937435,
+      "66 57YHA"
+    ],
+    "elapsed": 0.059
+  },
+  {
+    "crop": "crop_3.0_1.png",
+    "detailed": true,
+    "result": [
+      "6657УНА",
+      0.5356300600937435,
+      "66 57YHA"
+    ],
+    "elapsed": 0.055
+  },
+  {
+    "crop": "crop_3.533_0.png",
+    "detailed": false,
+    "result": [
+      "",
+      0.0,
+      "5659 У6M"
+    ],
+    "elapsed": 0.054
+  },
+  {
+    "crop": "crop_3.533_0.png",
+    "detailed": true,
+    "result": [
+      "",
+      0.0,
+      "5659 У6M"
+    ],
+    "elapsed": 0.061
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "detailed": false,
+    "result": [
+      "6657УНА",
+      0.7242377400398254,
+      "6657-YHA"
+    ],
+    "elapsed": 0.071
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "detailed": true,
+    "result": [
+      "6657УНА",
+      0.7242377400398254,
+      "6657-YHA"
+    ],
+    "elapsed": 0.074
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "detailed": false,
+    "result": [
+      "5659УБМ",
+      0.6032233280794961,
+      "5659 УБM"
+    ],
+    "elapsed": 0.064
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "detailed": true,
+    "result": [
+      "",
+      0.6032233280794961,
+      "5659 УБM"
+    ],
+    "elapsed": 0.067
+  },
+  {
+    "crop": "crop_4.0_1.png",
+    "detailed": false,
+    "result": [
+      "6657УНА",
+      0.842805130141122,
+      "6657-YHA"
+    ],
+    "elapsed": 0.022
+  },
+  {
+    "crop": "crop_4.0_1.png",
+    "detailed": true,
+    "result": [
+      "6657УНА",
+      0.8047458870070321,
+      "6657-YHA"
+    ],
+    "elapsed": 0.071
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "detailed": false,
+    "result": [
+      "6657УНА",
+      0.8174009535993849,
+      "6657-YHA"
+    ],
+    "elapsed": 0.021
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "detailed": true,
+    "result": [
+      "6657УНА",
+      0.8174009535993849,
+      "6657-YHA"
+    ],
+    "elapsed": 0.065
+  },
+  {
+    "crop": "crop_4.7_0.png",
+    "detailed": false,
+    "result": [
+      "4000УЕО",
+      0.647533009449641,
+      "4000YEO"
+    ],
+    "elapsed": 0.4
+  },
+  {
+    "crop": "crop_4.7_0.png",
+    "detailed": true,
+    "result": [
+      "4000УЕО",
+      0.647533009449641,
+      "4000YEO"
+    ],
+    "elapsed": 0.369
+  },
+  {
+    "crop": "crop_4.7_1.png",
+    "detailed": false,
+    "result": [
+      "",
+      0.0,
+      ""
+    ],
+    "elapsed": 0.039
+  },
+  {
+    "crop": "crop_4.7_1.png",
+    "detailed": true,
+    "result": [
+      "",
+      0.0,
+      ""
+    ],
+    "elapsed": 0.032
+  },
+  {
+    "crop": "crop_5.0_0.png",
+    "detailed": false,
+    "result": [
+      "4000УЕО",
+      0.5813199778397877,
+      "4000YEO"
+    ],
+    "elapsed": 0.364
+  },
+  {
+    "crop": "crop_5.0_0.png",
+    "detailed": true,
+    "result": [
+      "4000УЕО",
+      0.5813199778397877,
+      "4000YEO"
+    ],
+    "elapsed": 0.378
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "detailed": false,
+    "result": [
+      "4000УЕО",
+      0.7159424225489299,
+      "4000YEO"
+    ],
+    "elapsed": 0.252
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "detailed": true,
+    "result": [
+      "4000УЕО",
+      0.7159424225489299,
+      "4000YEO"
+    ],
+    "elapsed": 0.26
+  }
+]

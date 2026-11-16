@@ -1,0 +1,253 @@
+.\.venv\Scripts\python.exe : WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:3
+At line:2 char:22
++ ... ONUTF8='1'; .\.venv\Scripts\python.exe -m unittest discover -s tests  ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (WARNING:root:Sk...etections.csv:3:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:4
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:5
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:6
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:7
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:9
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:4
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:5
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:6
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:7
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:9
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:4
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:5
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:6
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:7
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:9
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:4
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:5
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:6
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:7
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmpxamcl3o4\detections.csv:9
+ERROR:root:Preview allocation failed; retrying with a smaller image
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\gui.py", line 801, in redraw_preview
+    self._render_preview()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1234, in _execute_mock_call
+    raise effect
+MemoryError: Camera allocation failed
+ERROR:root:User-visible error: Файл олдсонгүй. Файлын бүтэн замыг оруулах эсвэл Зураг импортлох товчоор сонгоно уу.
+ERROR:root:Detection failed: ['C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\tmp4kw19iw0\\Монгол зураг.png']
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 208, in run
+    self.run_images(source)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 243, in run_images
+    self.load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 117, in load_recognizer
+    self._load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 123, in _load_recognizer
+    self.recognizer = PlateRecognizer(self.settings, lambda text: self.emit("status", text), self.stop_event)
+                      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1234, in _execute_mock_call
+    raise effect
+RuntimeError: AI test failure
+ERROR:root:User-visible error: AI test failure
+ERROR:root:Preview allocation failed; retrying with a smaller image
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\gui.py", line 801, in redraw_preview
+    self._render_preview()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1240, in _execute_mock_call
+    result = effect(*args, **kwargs)
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\tests\test_gui.py", line 253, in fail_once
+    raise MemoryError("Simulated preview allocation failure")
+MemoryError: Simulated preview allocation failure
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmp4flyy010\data\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmp4flyy010\data\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmp4flyy010\data\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmp4flyy010\data\detections.csv:3
+WARNING:root:Skipping incomplete CSV record at C:\Users\tugul\OneDrive\Desktop\biy 
+daalt.python]\tmp4flyy010\data\detections.csv:3
+ERROR:root:GUI update failed; continuing on the next tick
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\gui.py", line 1137, in poll
+    self._poll_once()
+    ~~~~~~~~~~~~~~~^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1240, in _execute_mock_call
+    result = effect(*args, **kwargs)
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\tests\test_gui.py", line 272, in fail_once
+    raise RuntimeError("Simulated GUI callback failure")
+RuntimeError: Simulated GUI callback failure
+ERROR:root:User-visible error: Энэ нь зургийн файл байна. «+ Зураг» товчоор оруулна уу; видео шалгахад MP4, AVI, MOV 
+эсвэл MKV сонгоно уу.
+WARNING:root:Detector allocation failed; retrying at 320 pixels
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:3
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:4
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:5
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:6
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:7
+WARNING:root:Skipping invalid CSV record at C:\Users\tugul\AppData\Local\Temp\tmpp_bwyxgm\detections.csv:8
+ERROR:root:Detection failed: [WindowsPath('C:/Users/tugul/OneDrive/Desktop/biy daalt.python]/tmp8amx8vmw/preview.png')]
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 208, in run
+    self.run_images(source)
+    ~~~~~~~~~~~~~~~^^^^^^^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 243, in run_images
+    self.load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 117, in load_recognizer
+    self._load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 123, in _load_recognizer
+    self.recognizer = PlateRecognizer(self.settings, lambda text: self.emit("status", text), self.stop_event)
+                      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1234, in _execute_mock_call
+    raise effect
+RuntimeError: model failed
+ERROR:root:AI analysis failed; retaining media preview
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 261, in run_camera
+    self.load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 117, in load_recognizer
+    self._load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 123, in _load_recognizer
+    self.recognizer = PlateRecognizer(self.settings, lambda text: self.emit("status", text), self.stop_event)
+                      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1234, in _execute_mock_call
+    raise effect
+RuntimeError: model unavailable
+ERROR:root:AI analysis failed; retaining media preview
+Traceback (most recent call last):
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 376, in run_video
+    self.load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 117, in load_recognizer
+    self._load_recognizer()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\platewatch\worker.py", line 123, in _load_recognizer
+    self.recognizer = PlateRecognizer(self.settings, lambda text: self.emit("status", text), self.stop_event)
+                      ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1169, in __call__
+    return self._mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1173, in _mock_call
+    return self._execute_mock_call(*args, **kwargs)
+           ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "C:\Program 
+Files\WindowsApps\PythonSoftwareFoundation.Python.3.13_3.13.3824.0_x64__qbz5n2kfra8p0\Lib\unittest\mock.py", line 
+1234, in _execute_mock_call
+    raise effect
+RuntimeError: model unavailable
+----------------------------------------------------------------------
+Ran 103 tests in 28.188s
+
+OK

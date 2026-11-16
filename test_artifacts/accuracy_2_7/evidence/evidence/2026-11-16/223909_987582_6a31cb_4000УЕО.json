@@ -1,0 +1,32 @@
+{
+  "id": "223909_987582_6a31cb",
+  "detected_at": "2026-11-16T22:39:09.987+08:00",
+  "plate": "4000УЕО",
+  "source": "C:\\Users\\tugul\\Downloads\\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4",
+  "source_kind": "video",
+  "video_seconds": 5.2,
+  "detector_confidence": 0.3503,
+  "ocr_confidence": 0.6591,
+  "rule_code": "allowed",
+  "rule_label": "Хуваариар зорчих боломжтой",
+  "image_path": "evidence/2026-11-16/223909_987582_6a31cb_4000УЕО.jpg",
+  "crop_path": "evidence/2026-11-16/223909_987582_6a31cb_4000УЕО_plate.jpg",
+  "metadata_path": "evidence/2026-11-16/223909_987582_6a31cb_4000УЕО.json",
+  "raw_ocr_text": "4000YEO",
+  "bbox": [
+    224,
+    522,
+    270,
+    552
+  ],
+  "method": "yolo_ocr",
+  "rule": {
+    "code": "allowed",
+    "label": "Хуваариар зорчих боломжтой",
+    "restricted_today": false,
+    "restricted_now": false,
+    "detail": "Даваа · сүүлийн цифр 0 · 08:00–20:00 · тохируулсан хуваарь"
+  },
+  "rule_basis": "user_configured_schedule",
+  "time_basis": "import_processing_time"
+}

@@ -1,0 +1,120 @@
+{
+  "version": "2.8.0",
+  "ok": true,
+  "images": [
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg",
+      "plate": "1742УБР",
+      "plates": [
+        "1742УБР"
+      ],
+      "ok": true,
+      "seconds": 1.88
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\900728487_1879880086353713_3986565288005235230_n.jpg",
+      "plate": "3892УНУ",
+      "plates": [
+        "3892УНУ"
+      ],
+      "ok": true,
+      "seconds": 0.49
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\895703188_1686248189594825_8156024513900858906_n.jpg",
+      "plate": "8804ДОУ",
+      "plates": [
+        "8804ДОУ"
+      ],
+      "ok": true,
+      "seconds": 0.3
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622761_2171016816958406_4022276858474722292_n.jpg",
+      "plate": "7319ДАР",
+      "plates": [
+        "7319ДАР"
+      ],
+      "ok": true,
+      "seconds": 3.09
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903166515_3545693172279857_3507760719769091338_n.jpg",
+      "plate": "3225ЗАА",
+      "plates": [
+        "3225ЗАА"
+      ],
+      "ok": true,
+      "seconds": 0.73
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-52.jpg",
+      "plate": "9638УЕН",
+      "plates": [
+        "9638УЕН"
+      ],
+      "ok": true,
+      "seconds": 1.2
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903232104_28766082913088163_5081325166348340494_n.jpg",
+      "plate": "1771УБН",
+      "plates": [
+        "1771УБН"
+      ],
+      "ok": true,
+      "seconds": 1.26
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902496501_1764072698011985_231954932624362257_n.jpg",
+      "plate": "0878УНК",
+      "plates": [
+        "0878УНК"
+      ],
+      "ok": true,
+      "seconds": 2.77
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\synthetic_car.png",
+      "plate": "1234УБА",
+      "plates": [
+        "1234УБА"
+      ],
+      "ok": true,
+      "seconds": 0.4
+    }
+  ],
+  "negative_images": [
+    {
+      "name": "blank",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "panel",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "ordinary_text",
+      "plates": [],
+      "ok": true
+    }
+  ],
+  "gui": {
+    "ok": true,
+    "plate": "1742УБР",
+    "preview": [
+      720,
+      720,
+      3
+    ],
+    "detector_label": "OCR  100%     YOLO  —",
+    "manual_plate": "1742УБР",
+    "history_rows": 3,
+    "filtered_export": true,
+    "rule": "restricted",
+    "settings_saved": true,
+    "settings_roundtrip": true
+  }
+}

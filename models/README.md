@@ -10,5 +10,5 @@ The model card declares MIT; Ultralytics and EasyOCR retain their own licenses.
 - Size: 6,248,291 bytes.
 
 It has not been fine-tuned or evaluated on a Mongolian dataset here.
-Use `train.py` with labelled Mongolian plates and select `mongolian_best.pt` in Settings.
+Use `python -m tools.train` with labelled Mongolian plates and select `mongolian_best.pt` in Settings.
 OCR weights are cached under `data/models/ocr` after initial download.

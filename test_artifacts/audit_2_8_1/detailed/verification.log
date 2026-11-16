@@ -1,0 +1,9 @@
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg']
+INFO:root:Source ready: {'kind': 'image', 'source': 'C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg'}
+INFO:root:GUI AI ready: image
+INFO:root:GUI preview displayed: image (960, 443, 3)
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+INFO:root:Source finished: video; saved=3

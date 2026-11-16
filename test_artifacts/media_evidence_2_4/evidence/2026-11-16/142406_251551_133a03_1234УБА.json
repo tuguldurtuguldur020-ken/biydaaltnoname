@@ -1,0 +1,32 @@
+{
+  "id": "142406_251551_133a03",
+  "detected_at": "2026-11-16T14:24:06.251+08:00",
+  "plate": "1234УБА",
+  "source": "C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\Монгол_дугаар_туршилт.mp4",
+  "source_kind": "video",
+  "video_seconds": 0.5,
+  "detector_confidence": 0.6023,
+  "ocr_confidence": 1.0,
+  "rule_code": "allowed",
+  "rule_label": "Хуваариар зорчих боломжтой",
+  "image_path": "evidence/2026-11-16/142406_251551_133a03_1234УБА.jpg",
+  "crop_path": "evidence/2026-11-16/142406_251551_133a03_1234УБА_plate.jpg",
+  "metadata_path": "evidence/2026-11-16/142406_251551_133a03_1234УБА.json",
+  "raw_ocr_text": "1234УБА",
+  "bbox": [
+    411,
+    454,
+    969,
+    565
+  ],
+  "method": "yolo_ocr",
+  "rule": {
+    "code": "allowed",
+    "label": "Хуваариар зорчих боломжтой",
+    "restricted_today": false,
+    "restricted_now": false,
+    "detail": "Даваа · сүүлийн цифр 4 · 08:00–20:00 · тохируулсан хуваарь"
+  },
+  "rule_basis": "user_configured_schedule",
+  "time_basis": "import_processing_time"
+}

@@ -5,7 +5,7 @@ call run.bat --install
 if errorlevel 1 goto failed
 ".venv\Scripts\python.exe" -m pip install "pyinstaller>=6.11,<7"
 if errorlevel 1 goto failed
-".venv\Scripts\python.exe" build_exe.py
+".venv\Scripts\python.exe" -m tools.build_exe
 if errorlevel 1 goto failed
 echo Ready: dist\PlateWatch\PlateWatch.exe
 pause

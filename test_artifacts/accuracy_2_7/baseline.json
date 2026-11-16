@@ -1,0 +1,376 @@
+[
+  {
+    "seconds": 3.0,
+    "mode": "balanced",
+    "elapsed": 3.77,
+    "detections": [
+      {
+        "bbox": [
+          382,
+          464,
+          431,
+          482
+        ],
+        "plate": "",
+        "detector_confidence": 0.6972211003303528,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659 IC"
+      },
+      {
+        "bbox": [
+          150,
+          478,
+          205,
+          499
+        ],
+        "plate": "",
+        "detector_confidence": 0.6814072132110596,
+        "ocr_confidence": 0.0,
+        "raw_text": "Б66Ы5ЕШ"
+      }
+    ]
+  },
+  {
+    "seconds": 3.0,
+    "mode": "detailed",
+    "elapsed": 12.29,
+    "detections": [
+      {
+        "bbox": [
+          382,
+          464,
+          431,
+          482
+        ],
+        "plate": "",
+        "detector_confidence": 0.6972211003303528,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659"
+      },
+      {
+        "bbox": [
+          150,
+          478,
+          205,
+          499
+        ],
+        "plate": "",
+        "detector_confidence": 0.6814072132110596,
+        "ocr_confidence": 0.0,
+        "raw_text": "WSS57ЭҮ80"
+      }
+    ]
+  },
+  {
+    "seconds": 3.533,
+    "mode": "balanced",
+    "elapsed": 1.93,
+    "detections": [
+      {
+        "bbox": [
+          415,
+          474,
+          466,
+          494
+        ],
+        "plate": "",
+        "detector_confidence": 0.8019991517066956,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659"
+      },
+      {
+        "bbox": [
+          216,
+          502,
+          281,
+          524
+        ],
+        "plate": "",
+        "detector_confidence": 0.679203450679779,
+        "ocr_confidence": 0.0,
+        "raw_text": "УНА"
+      }
+    ]
+  },
+  {
+    "seconds": 3.533,
+    "mode": "detailed",
+    "elapsed": 7.93,
+    "detections": [
+      {
+        "bbox": [
+          415,
+          474,
+          466,
+          494
+        ],
+        "plate": "",
+        "detector_confidence": 0.8019991517066956,
+        "ocr_confidence": 0.12747672196580553,
+        "raw_text": "1653ЧБМ"
+      },
+      {
+        "bbox": [
+          216,
+          502,
+          281,
+          524
+        ],
+        "plate": "",
+        "detector_confidence": 0.679203450679779,
+        "ocr_confidence": 0.4360223833209629,
+        "raw_text": "1665УНЮ"
+      }
+    ]
+  },
+  {
+    "seconds": 4.0,
+    "mode": "balanced",
+    "elapsed": 1.14,
+    "detections": [
+      {
+        "bbox": [
+          441,
+          483,
+          494,
+          502
+        ],
+        "plate": "",
+        "detector_confidence": 0.5077333450317383,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659"
+      },
+      {
+        "bbox": [
+          303,
+          532,
+          380,
+          557
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.4624105989933014,
+        "ocr_confidence": 0.5185378653527882,
+        "raw_text": "6657УНА"
+      }
+    ]
+  },
+  {
+    "seconds": 4.0,
+    "mode": "detailed",
+    "elapsed": 4.86,
+    "detections": [
+      {
+        "bbox": [
+          441,
+          483,
+          494,
+          502
+        ],
+        "plate": "",
+        "detector_confidence": 0.5077333450317383,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659"
+      },
+      {
+        "bbox": [
+          303,
+          532,
+          380,
+          557
+        ],
+        "plate": "",
+        "detector_confidence": 0.4624105989933014,
+        "ocr_confidence": 0.24192908869477578,
+        "raw_text": "6657УНА"
+      }
+    ]
+  },
+  {
+    "seconds": 4.3,
+    "mode": "balanced",
+    "elapsed": 0.36,
+    "detections": [
+      {
+        "bbox": [
+          387,
+          560,
+          480,
+          587
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.755222737789154,
+        "ocr_confidence": 0.5536604556919317,
+        "raw_text": "6657УНА"
+      }
+    ]
+  },
+  {
+    "seconds": 4.3,
+    "mode": "detailed",
+    "elapsed": 1.47,
+    "detections": [
+      {
+        "bbox": [
+          387,
+          560,
+          480,
+          587
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.755222737789154,
+        "ocr_confidence": 0.3590041326939491,
+        "raw_text": "6657УНА"
+      }
+    ]
+  },
+  {
+    "seconds": 4.7,
+    "mode": "balanced",
+    "elapsed": 0.61,
+    "detections": [
+      {
+        "bbox": [
+          163,
+          503,
+          198,
+          528
+        ],
+        "plate": "",
+        "detector_confidence": 0.527920126914978,
+        "ocr_confidence": 0.0,
+        "raw_text": ""
+      },
+      {
+        "bbox": [
+          99,
+          538,
+          189,
+          557
+        ],
+        "plate": "",
+        "detector_confidence": 0.4505966305732727,
+        "ocr_confidence": 0.0,
+        "raw_text": "И"
+      }
+    ]
+  },
+  {
+    "seconds": 4.7,
+    "mode": "detailed",
+    "elapsed": 1.62,
+    "detections": [
+      {
+        "bbox": [
+          163,
+          503,
+          198,
+          528
+        ],
+        "plate": "",
+        "detector_confidence": 0.527920126914978,
+        "ocr_confidence": 0.0,
+        "raw_text": ""
+      },
+      {
+        "bbox": [
+          99,
+          538,
+          189,
+          557
+        ],
+        "plate": "",
+        "detector_confidence": 0.4505966305732727,
+        "ocr_confidence": 0.0,
+        "raw_text": "Е"
+      }
+    ]
+  },
+  {
+    "seconds": 5.0,
+    "mode": "balanced",
+    "elapsed": 0.09,
+    "detections": [
+      {
+        "bbox": [
+          194,
+          513,
+          236,
+          541
+        ],
+        "plate": "",
+        "detector_confidence": 0.3528828024864197,
+        "ocr_confidence": 0.0,
+        "raw_text": ""
+      }
+    ]
+  },
+  {
+    "seconds": 5.0,
+    "mode": "detailed",
+    "elapsed": 0.08,
+    "detections": [
+      {
+        "bbox": [
+          194,
+          513,
+          236,
+          541
+        ],
+        "plate": "",
+        "detector_confidence": 0.3528828024864197,
+        "ocr_confidence": 0.0,
+        "raw_text": ""
+      }
+    ]
+  },
+  {
+    "seconds": 6.0,
+    "mode": "balanced",
+    "elapsed": 0.59,
+    "detections": [
+      {
+        "bbox": [
+          443,
+          589,
+          505,
+          629
+        ],
+        "plate": "",
+        "detector_confidence": 0.3974674642086029,
+        "ocr_confidence": 0.0,
+        "raw_text": "4000"
+      }
+    ]
+  },
+  {
+    "seconds": 6.0,
+    "mode": "detailed",
+    "elapsed": 1.26,
+    "detections": [
+      {
+        "bbox": [
+          443,
+          589,
+          505,
+          629
+        ],
+        "plate": "4000УЕО",
+        "detector_confidence": 0.3974674642086029,
+        "ocr_confidence": 0.7565669084412905,
+        "raw_text": "4000YEO"
+      }
+    ]
+  },
+  {
+    "seconds": 8.0,
+    "mode": "balanced",
+    "elapsed": 0.07,
+    "detections": []
+  },
+  {
+    "seconds": 8.0,
+    "mode": "detailed",
+    "elapsed": 0.06,
+    "detections": []
+  }
+]

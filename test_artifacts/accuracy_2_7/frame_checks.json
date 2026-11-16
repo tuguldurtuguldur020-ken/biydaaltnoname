@@ -1,0 +1,134 @@
+[
+  {
+    "seconds": 1.0,
+    "elapsed": 2.8,
+    "detections": [
+      {
+        "bbox": [
+          273,
+          515,
+          408,
+          540
+        ],
+        "plate": "7034УБУ",
+        "detector_confidence": 0.6548821330070496,
+        "ocr_confidence": 0.99980894281462,
+        "raw_text": "7034УБУ"
+      }
+    ]
+  },
+  {
+    "seconds": 3.533,
+    "elapsed": 4.44,
+    "detections": [
+      {
+        "bbox": [
+          415,
+          474,
+          466,
+          494
+        ],
+        "plate": "",
+        "detector_confidence": 0.8019991517066956,
+        "ocr_confidence": 0.12747672196580553,
+        "raw_text": "1653ЧБМ"
+      },
+      {
+        "bbox": [
+          216,
+          502,
+          281,
+          524
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.679203450679779,
+        "ocr_confidence": 0.7242377400398254,
+        "raw_text": "6657-YHA"
+      }
+    ]
+  },
+  {
+    "seconds": 4.0,
+    "elapsed": 3.86,
+    "detections": [
+      {
+        "bbox": [
+          441,
+          483,
+          494,
+          502
+        ],
+        "plate": "",
+        "detector_confidence": 0.5077333450317383,
+        "ocr_confidence": 0.0,
+        "raw_text": "5659"
+      },
+      {
+        "bbox": [
+          303,
+          532,
+          380,
+          557
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.4624105989933014,
+        "ocr_confidence": 0.8047458870070321,
+        "raw_text": "6657-YHA"
+      }
+    ]
+  },
+  {
+    "seconds": 4.3,
+    "elapsed": 0.14,
+    "detections": [
+      {
+        "bbox": [
+          387,
+          560,
+          480,
+          587
+        ],
+        "plate": "6657УНА",
+        "detector_confidence": 0.755222737789154,
+        "ocr_confidence": 0.8174009535993849,
+        "raw_text": "6657-YHA"
+      }
+    ]
+  },
+  {
+    "seconds": 5.7,
+    "elapsed": 0.38,
+    "detections": [
+      {
+        "bbox": [
+          340,
+          559,
+          393,
+          596
+        ],
+        "plate": "4000УЕО",
+        "detector_confidence": 0.47628670930862427,
+        "ocr_confidence": 0.7405252754688263,
+        "raw_text": "4000YEO"
+      }
+    ]
+  },
+  {
+    "seconds": 6.0,
+    "elapsed": 0.39,
+    "detections": [
+      {
+        "bbox": [
+          443,
+          589,
+          505,
+          629
+        ],
+        "plate": "4000УЕО",
+        "detector_confidence": 0.3974674642086029,
+        "ocr_confidence": 0.7159424225489299,
+        "raw_text": "4000YEO"
+      }
+    ]
+  }
+]

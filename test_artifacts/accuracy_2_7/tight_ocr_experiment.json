@@ -1,0 +1,162 @@
+[
+  {
+    "crop": "crop_3.533_1.png",
+    "kind": "tight",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "1657УЮ"
+    ]
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "kind": "tight",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "1657УЮ"
+    ]
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "kind": "border",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "М6657У"
+    ]
+  },
+  {
+    "crop": "crop_3.533_1.png",
+    "kind": "border",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "М6657У"
+    ]
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "kind": "tight",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "16657УНЫ"
+    ]
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "kind": "tight",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "16657УНЫ"
+    ]
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "kind": "border",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "26657У"
+    ]
+  },
+  {
+    "crop": "crop_4.3_0.png",
+    "kind": "border",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "26657У"
+    ]
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "kind": "tight",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "Б659YEЙ"
+    ]
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "kind": "tight",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "Б659УЕЙ"
+    ]
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "kind": "border",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "Ш5659УБЙ"
+    ]
+  },
+  {
+    "crop": "crop_4.0_0.png",
+    "kind": "border",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "Ш5659УБЙ"
+    ]
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "kind": "tight",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "I"
+    ]
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "kind": "tight",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "Г"
+    ]
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "kind": "border",
+    "latin": true,
+    "result": [
+      "",
+      0.0,
+      "L"
+    ]
+  },
+  {
+    "crop": "crop_6.0_0.png",
+    "kind": "border",
+    "latin": false,
+    "result": [
+      "",
+      0.0,
+      "Ц"
+    ]
+  }
+]

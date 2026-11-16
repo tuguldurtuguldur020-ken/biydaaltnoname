@@ -1,0 +1,255 @@
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg", "plate": "7960УЕХ", "expected": ["7960УЕХ"], "plates": ["7960УЕХ"], "ok": true, "seconds": 1.4}
+C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\.venv\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg", "plate": "1742УБР", "expected": ["1742УБР"], "plates": ["1742УБР"], "ok": true, "seconds": 2.07}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\900728487_1879880086353713_3986565288005235230_n.jpg", "plate": "3892УНУ", "expected": ["3892УНУ"], "plates": ["3892УНУ"], "ok": true, "seconds": 0.37}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\895703188_1686248189594825_8156024513900858906_n.jpg", "plate": "8804ДОУ", "expected": ["8804ДОУ"], "plates": ["8804ДОУ"], "ok": true, "seconds": 0.34}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622761_2171016816958406_4022276858474722292_n.jpg", "plate": "7319ДАР", "expected": ["7319ДАР"], "plates": ["7319ДАР"], "ok": true, "seconds": 4.55}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903166515_3545693172279857_3507760719769091338_n.jpg", "plate": "3225ЗАА", "expected": ["3225ЗАА"], "plates": ["3225ЗАА"], "ok": true, "seconds": 0.78}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-52.jpg", "plate": "9638УЕН", "expected": ["9638УЕН"], "plates": ["9638УЕН"], "ok": true, "seconds": 1.01}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903232104_28766082913088163_5081325166348340494_n.jpg", "plate": "1771УБН", "expected": ["1771УБН"], "plates": ["1771УБН"], "ok": true, "seconds": 1.53}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902496501_1764072698011985_231954932624362257_n.jpg", "plate": "0878УНК", "expected": ["0878УНК"], "plates": ["0878УНК"], "ok": true, "seconds": 2.35}
+{"source": "C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\synthetic_car.png", "plate": "1234УБА", "expected": ["1234УБА"], "plates": ["1234УБА"], "ok": true, "seconds": 0.5}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\893164567_1643496473908908_80966691046047089_n.jpg", "plate": "", "category": "non_plate", "expected": [], "plates": [], "ok": true, "seconds": 0.6}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622762_1170528472135966_7153273233008271227_n.jpg", "plate": "", "category": "unsupported_format", "expected": [], "plates": [], "ok": true, "seconds": 2.74}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622808_1632454565006710_2960989919035335176_n.jpg", "plate": "", "category": "unsupported_format", "expected": [], "plates": [], "ok": true, "seconds": 5.41}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\904740177_1533623225493052_6463539622800601863_n (1).jpg", "plate": "", "category": "unsupported_format", "expected": [], "plates": [], "ok": true, "seconds": 4.81}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\aedDBLEQZ7JFFgkjK5_TNQdvAoESa_W7z5IxUkY-UmwvA-4VGJSWzUQhvRIULTzIHp8hmnNtZQaateaZUcvA-epKboshj581NWXegYWCuiYjxPb5cDeWJZQvM8gtlkcBBQTYJG_dYhRAHG-4bDMM09z7RdyKgN8s_NI-bSVJqWFVGyOeg1zjTJwHlmsJ6SkJ.jpg", "plate": "", "category": "unsupported_format", "expected": [], "plates": [], "ok": true, "seconds": 0.33}
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\N3eMbCxSGnDlYjwRUWXLQXWd-h8nBamHEkAO8ZLJq1ETZWn5OPJmfIEeXey1-KumJVEo_DNdBGvABZxnyMU3tCrF_yDj_-i6kVwOKjwXxkZzgM4RXl09mHaLjhphzQpa9udlmQDcWuNFbv7fAMcL5b2q86yylOsnX1EjQlcw5kcT53p2794u5rokq95naCL4.jpg", "plate": "", "category": "unsupported_format", "expected": [], "plates": [], "ok": true, "seconds": 2.44}
+{
+  "version": "2.8.1",
+  "mode": "balanced",
+  "ok": true,
+  "images": [
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg",
+      "plate": "7960УЕХ",
+      "expected": [
+        "7960УЕХ"
+      ],
+      "plates": [
+        "7960УЕХ"
+      ],
+      "ok": true,
+      "seconds": 1.4
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg",
+      "plate": "1742УБР",
+      "expected": [
+        "1742УБР"
+      ],
+      "plates": [
+        "1742УБР"
+      ],
+      "ok": true,
+      "seconds": 2.07
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\900728487_1879880086353713_3986565288005235230_n.jpg",
+      "plate": "3892УНУ",
+      "expected": [
+        "3892УНУ"
+      ],
+      "plates": [
+        "3892УНУ"
+      ],
+      "ok": true,
+      "seconds": 0.37
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\895703188_1686248189594825_8156024513900858906_n.jpg",
+      "plate": "8804ДОУ",
+      "expected": [
+        "8804ДОУ"
+      ],
+      "plates": [
+        "8804ДОУ"
+      ],
+      "ok": true,
+      "seconds": 0.34
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622761_2171016816958406_4022276858474722292_n.jpg",
+      "plate": "7319ДАР",
+      "expected": [
+        "7319ДАР"
+      ],
+      "plates": [
+        "7319ДАР"
+      ],
+      "ok": true,
+      "seconds": 4.55
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903166515_3545693172279857_3507760719769091338_n.jpg",
+      "plate": "3225ЗАА",
+      "expected": [
+        "3225ЗАА"
+      ],
+      "plates": [
+        "3225ЗАА"
+      ],
+      "ok": true,
+      "seconds": 0.78
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-52.jpg",
+      "plate": "9638УЕН",
+      "expected": [
+        "9638УЕН"
+      ],
+      "plates": [
+        "9638УЕН"
+      ],
+      "ok": true,
+      "seconds": 1.01
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\903232104_28766082913088163_5081325166348340494_n.jpg",
+      "plate": "1771УБН",
+      "expected": [
+        "1771УБН"
+      ],
+      "plates": [
+        "1771УБН"
+      ],
+      "ok": true,
+      "seconds": 1.53
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902496501_1764072698011985_231954932624362257_n.jpg",
+      "plate": "0878УНК",
+      "expected": [
+        "0878УНК"
+      ],
+      "plates": [
+        "0878УНК"
+      ],
+      "ok": true,
+      "seconds": 2.35
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\synthetic_car.png",
+      "plate": "1234УБА",
+      "expected": [
+        "1234УБА"
+      ],
+      "plates": [
+        "1234УБА"
+      ],
+      "ok": true,
+      "seconds": 0.5
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\893164567_1643496473908908_80966691046047089_n.jpg",
+      "plate": "",
+      "category": "non_plate",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 0.6
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622762_1170528472135966_7153273233008271227_n.jpg",
+      "plate": "",
+      "category": "unsupported_format",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 2.74
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\902622808_1632454565006710_2960989919035335176_n.jpg",
+      "plate": "",
+      "category": "unsupported_format",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 5.41
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\904740177_1533623225493052_6463539622800601863_n (1).jpg",
+      "plate": "",
+      "category": "unsupported_format",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 4.81
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\aedDBLEQZ7JFFgkjK5_TNQdvAoESa_W7z5IxUkY-UmwvA-4VGJSWzUQhvRIULTzIHp8hmnNtZQaateaZUcvA-epKboshj581NWXegYWCuiYjxPb5cDeWJZQvM8gtlkcBBQTYJG_dYhRAHG-4bDMM09z7RdyKgN8s_NI-bSVJqWFVGyOeg1zjTJwHlmsJ6SkJ.jpg",
+      "plate": "",
+      "category": "unsupported_format",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 0.33
+    },
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\N3eMbCxSGnDlYjwRUWXLQXWd-h8nBamHEkAO8ZLJq1ETZWn5OPJmfIEeXey1-KumJVEo_DNdBGvABZxnyMU3tCrF_yDj_-i6kVwOKjwXxkZzgM4RXl09mHaLjhphzQpa9udlmQDcWuNFbv7fAMcL5b2q86yylOsnX1EjQlcw5kcT53p2794u5rokq95naCL4.jpg",
+      "plate": "",
+      "category": "unsupported_format",
+      "expected": [],
+      "plates": [],
+      "ok": true,
+      "seconds": 2.44
+    }
+  ],
+  "negative_images": [
+    {
+      "name": "blank",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "panel",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "ordinary_text",
+      "plates": [],
+      "ok": true
+    }
+  ],
+  "gui": {
+    "ok": true,
+    "plate": "7960УЕХ",
+    "preview": [
+      960,
+      443,
+      3
+    ],
+    "detector_label": "OCR  70%     YOLO  40%",
+    "manual_plate": "7960УЕХ",
+    "history_rows": 3,
+    "filtered_export": true,
+    "rule": "restricted",
+    "settings_saved": true,
+    "settings_roundtrip": true
+  },
+  "video": {
+    "plates": [
+      "4000УЕО",
+      "6657УНА",
+      "7034УБУ"
+    ],
+    "frames": 64,
+    "seconds": 44.81,
+    "ok": true
+  },
+  "camera": {
+    "ok": true,
+    "preview_frames": 13,
+    "inference_frames": 3,
+    "errors": [],
+    "shape": [
+      480,
+      640,
+      3
+    ],
+    "released": true,
+    "reopened": true
+  }
+}

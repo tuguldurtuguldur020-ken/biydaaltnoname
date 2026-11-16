@@ -1,0 +1,27 @@
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\900728487_1879880086353713_3986565288005235230_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\895703188_1686248189594825_8156024513900858906_n.jpg']
+INFO:root:Source finished: image; saved=0
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\902622761_2171016816958406_4022276858474722292_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\903166515_3545693172279857_3507760719769091338_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-52.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\903232104_28766082913088163_5081325166348340494_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\902496501_1764072698011985_231954932624362257_n.jpg']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Desktop\\biy daalt.python]\\test_artifacts\\synthetic_car.png']
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: image ['C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg']
+INFO:root:Source ready: {'kind': 'image', 'source': 'C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg'}
+INFO:root:GUI AI ready: image
+INFO:root:GUI preview displayed: image (720, 720, 3)
+INFO:root:Source finished: image; saved=1
+INFO:root:Source start: video C:\Users\tugul\Downloads\AQOUNuOCZK1bzLJZVxS7QT3YHHD-icX_QbmjwPbfL_omBSrComF0HvHvAj91GBp6HmgN7x_w5XTU1z4dLxPtWYIW3Bj1Fe2_ckfsskrvaA.mp4
+INFO:root:Source finished: video; saved=3
+INFO:root:Source start: camera auto
+INFO:root:Source finished: camera; saved=0

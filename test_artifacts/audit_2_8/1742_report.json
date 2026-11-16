@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-11-17T00:34:31.515464+08:00",
+  "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\photo_2026-11-06_11-35-41.jpg",
+  "ok": true,
+  "detections": [
+    {
+      "bbox": [
+        83,
+        201,
+        555,
+        506
+      ],
+      "plate": "1742УБР",
+      "detector_confidence": 0.0,
+      "ocr_confidence": 0.9999966025352478,
+      "raw_text": "1742УБР",
+      "method": "geometry_ocr"
+    }
+  ]
+}

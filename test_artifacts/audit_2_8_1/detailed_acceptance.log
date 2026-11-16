@@ -1,0 +1,65 @@
+{"source": "C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg", "plate": "7960УЕХ", "expected": ["7960УЕХ"], "plates": ["7960УЕХ"], "ok": true, "seconds": 1.15}
+C:\Users\tugul\OneDrive\Desktop\biy daalt.python]\.venv\Lib\site-packages\torch\utils\data\dataloader.py:668: UserWarning: 'pin_memory' argument is set as true but no accelerator is found, then device pinned memory won't be used.
+  warnings.warn(warn_msg)
+{
+  "version": "2.8.1",
+  "mode": "detailed",
+  "ok": true,
+  "images": [
+    {
+      "source": "C:\\Users\\tugul\\OneDrive\\Pictures\\846220724_1123758723635137_4283606675668681012_n.jpg",
+      "plate": "7960УЕХ",
+      "expected": [
+        "7960УЕХ"
+      ],
+      "plates": [
+        "7960УЕХ"
+      ],
+      "ok": true,
+      "seconds": 1.15
+    }
+  ],
+  "negative_images": [
+    {
+      "name": "blank",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "panel",
+      "plates": [],
+      "ok": true
+    },
+    {
+      "name": "ordinary_text",
+      "plates": [],
+      "ok": true
+    }
+  ],
+  "gui": {
+    "ok": true,
+    "plate": "7960УЕХ",
+    "preview": [
+      960,
+      443,
+      3
+    ],
+    "detector_label": "OCR  70%     YOLO  40%",
+    "manual_plate": "7960УЕХ",
+    "history_rows": 3,
+    "filtered_export": true,
+    "rule": "restricted",
+    "settings_saved": true,
+    "settings_roundtrip": true
+  },
+  "video": {
+    "plates": [
+      "4000УЕО",
+      "6657УНА",
+      "7034УБУ"
+    ],
+    "frames": 69,
+    "seconds": 151.45,
+    "ok": true
+  }
+}

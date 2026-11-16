@@ -1,0 +1,70 @@
+﻿[
+    {
+        "To":  "tools\\build_exe.py",
+        "From":  "build_exe.py"
+    },
+    {
+        "To":  "tools\\setup_models.py",
+        "From":  "setup_models.py"
+    },
+    {
+        "To":  "tools\\train.py",
+        "From":  "train.py"
+    },
+    {
+        "To":  "tools\\verify_accuracy_speed.py",
+        "From":  "verify_accuracy_speed.py"
+    },
+    {
+        "To":  "tools\\verify_camera.py",
+        "From":  "verify_camera.py"
+    },
+    {
+        "To":  "tools\\verify_exe.py",
+        "From":  "verify_exe.py"
+    },
+    {
+        "To":  "tools\\verify_gui.py",
+        "From":  "verify_gui.py"
+    },
+    {
+        "To":  "tools\\verify_media.py",
+        "From":  "verify_media.py"
+    },
+    {
+        "To":  "tools\\verify_multicar.py",
+        "From":  "verify_multicar.py"
+    },
+    {
+        "To":  "tools\\verify_native_import.py",
+        "From":  "verify_native_import.py"
+    },
+    {
+        "To":  "tools\\verify_project.py",
+        "From":  "verify_project.py"
+    },
+    {
+        "To":  "tools\\verify_review.py",
+        "From":  "verify_review.py"
+    },
+    {
+        "To":  "docs\\VALIDATION.md",
+        "From":  "VALIDATION.md"
+    },
+    {
+        "To":  "configs\\dataset.example.yaml",
+        "From":  "dataset.example.yaml"
+    },
+    {
+        "To":  "archive\\generated\\PlateWatch.spec",
+        "From":  "PlateWatch.spec"
+    },
+    {
+        "To":  "archive\\temporary_tests\\tmpkcdou6pv",
+        "From":  "tmpkcdou6pv"
+    },
+    {
+        "To":  "archive\\temporary_tests\\tmplmmd5n_c",
+        "From":  "tmplmmd5n_c"
+    }
+]

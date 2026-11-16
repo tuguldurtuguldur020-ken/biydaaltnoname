@@ -1,0 +1,20 @@
+{
+  "ok": false,
+  "version": "PlateWatch 2.5.0 • Автомашины дугаар танигч",
+  "source": "C:\\Users\\tugul\\Downloads\\AQMf4wKlM9gv8dkbtv0bwydmQAfUUxGbAyYKciDLpCvk06uYa0Rf_P9Ur_y9jpstKKxqadjtMlWrHZiiuiGYjHsLohWVOYEYkK21e3Q2jw.mp4",
+  "target_seconds": 11.0,
+  "paused_seconds": 11.033333333333333,
+  "frame_button_started": true,
+  "exact_original_preserved": true,
+  "recognized_frame_seconds": 11.033333333333333,
+  "manual_model_shared": true,
+  "manual_saved": 0,
+  "manual_display_plate": "— — — —",
+  "manual_raw_text": "1932ЗЦC",
+  "paused_preview_shape": [
+    640,
+    360,
+    3
+  ],
+  "error": "AI шалгалт зогслоо; дүрс үргэлжилнэ. could not execute a primitive"
+}
